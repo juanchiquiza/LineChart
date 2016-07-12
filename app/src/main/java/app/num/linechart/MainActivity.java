@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         ArrayList<Entry> entries = new ArrayList<>();
-        entries.add(new Entry(4f, 0));
+        entries.add(new Entry(3f, 0));
         entries.add(new Entry(8f, 1));
         entries.add(new Entry(6f, 2));
         entries.add(new Entry(2f, 3));
